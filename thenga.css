@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 35px;
+    background-color: rgb(142, 130, 145);
+}
+
+ul {
+    list-style-type: square;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-left: 10px;
+    background-color: rgb(130, 131, 124);
+}
